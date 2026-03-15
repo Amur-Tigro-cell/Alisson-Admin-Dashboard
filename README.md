@@ -31,4 +31,4 @@ This project is a static admin dashboard built with HTML and CSS, inspired by Th
 ## Credits
 - Layout and design inspired by The Odin Project
 - Icons used: Unicode emojis and custom images
->>>>>>> c52cf2a (Add README.md)
+
